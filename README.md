@@ -7,9 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Backend+Engineer+%7C+API+%26+Automation+Specialist;Node.js+%7C+NestJS+%7C+FastAPI+%7C+React+%7C+GraphQL;Cloud-native%2C+automation-driven%2C+real-time+systems" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="./dist/snake.svg" alt="Snake animation" />
-</p>
 
 
 ### Hi, I’m Danial 👋
@@ -73,6 +70,11 @@ https://www.linkedin.com/in/danial-hendi
 <a href="https://danialhendi.com"><img alt="Website" src="https://img.shields.io/badge/Website-1f2937?logo=About.me&logoColor=white"/></a>
 
 ---
+
+<p align="center">
+  <img src="./dist/snake.svg" alt="Snake animation" />
+</p>
+
 
 <!-- Optional fun: profile views counter -->
 <img align="right" src="https://komarev.com/ghpvc/?username=danielwellz&abbreviated=true&style=flat&color=0e75b6" alt="Profile views"/>
