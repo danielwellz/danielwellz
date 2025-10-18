@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: <your-username>
+          github_user_name: <danielwellz>
           outputs: |
             dist/snake.svg
             dist/snake.gif
