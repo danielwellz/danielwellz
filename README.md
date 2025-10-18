@@ -1,6 +1,6 @@
 <!-- Hero banner (optional) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&text=Danial%20Hendi&fontSize=48&fontAlign=50&fontColor=ffffff&color=0:0ea5e9,100:22c55e&stroke=ffffff&strokeWidth=1" alt="Danial Hendi banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&text=Danial%20Hendi&fontSize=48&fontAlign=50&fontColor=000000&color=0:0ea5e9,100:22c55e&stroke=ffffff&strokeWidth=1" alt="Danial Hendi banner" />
 </p>
 
 <!-- Typing headline (optional) -->
