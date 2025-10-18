@@ -63,7 +63,9 @@ I specialize in **Node.js, NestJS, FastAPI, React, and GraphQL**, with a strong 
 
 ## 📨 Contact
 <a href="mailto:danial.hendi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-danial.hendi%40gmail.com-0ea5e9?logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/danial-hendi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
+<a href="
+https://www.linkedin.com/in/danial-hendi
+"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/></a>
 <a href="https://danialhendi.com"><img alt="Website" src="https://img.shields.io/badge/Website-1f2937?logo=About.me&logoColor=white"/></a>
 
 ---
