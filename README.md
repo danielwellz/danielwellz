@@ -71,10 +71,9 @@ https://www.linkedin.com/in/danial-hendi
 
 ---
 
+<!-- Optional fun: profile views counter -->
+<img align="right" src="https://komarev.com/ghpvc/?username=danielwellz&abbreviated=true&style=flat&color=0e75b6" alt="Profile views"/>
+
 <p align="center">
   <img src="./dist/snake.svg" alt="Snake animation" />
 </p>
-
-
-<!-- Optional fun: profile views counter -->
-<img align="right" src="https://komarev.com/ghpvc/?username=danielwellz&abbreviated=true&style=flat&color=0e75b6" alt="Profile views"/>
