@@ -1,6 +1,6 @@
 # Danial Hendi
 
-Backend engineer in Yerevan, Armenia, with 6+ years of Python and TypeScript. I build data-heavy APIs and production AI features, and I spend most of my care on the parts users never see: query plans, failure modes, and tests that catch real bugs.
+Backend-focused full-stack engineer in Yerevan, Armenia, with 6+ years of Python and TypeScript. I build data-heavy APIs, production AI features and the Angular or React apps on top of them. Most of my care goes into the parts users never see: query plans, failure modes, and tests that catch real bugs.
 
 Open to remote roles with European or US time-zone overlap.
 [Email](mailto:danial.hendi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/danial-hendi)
